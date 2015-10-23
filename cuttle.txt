@@ -1,0 +1,32 @@
+Cuttle
+By: Richard Sipie
+
+You win by getting 21 points.
+
+A draw occurs if the deck runs out, and three "draw a cards" (=pass) are done in a row.
+
+On your turn you may:
+
+1. Draw a card.
+2. Play a point card.
+3. Scuttle a point card - discard a higher value card to destroy a lower value card on the field. (Aces are low, Clubs > Diamonds > Hearts > Spades)
+4. Use a point card for a one-off effect.
+5. Play a royal for a permanent effect.
+
+== One-Off Effects (Point Cards)
+Ace: Destroy all point cards.
+Two: Destroy any non-point card. OR Counter any one-off effect (can be played at any time, including on opponent's turn.)
+Three: Take a card from the discard.
+Four: Opponent discards two cards from their hands.
+Five: Draw two cards.
+Six: Destroy all non-point cards.
+Seven: Draw a card, and play it if possible.
+Eight: NONE
+Nine: Take any card in play, and put it on top of the deck.
+Ten: NONE
+
+== Permanent Effects (Royals)
+Eight: Glasses, opponent plays with hand face up.
+Jack: Place on top of a point card, which switches sides.
+Queen: None of your other cards may be specifically targeted (by jacks, twos and nines.)
+King: Owner only needs 14 points to win. (2 kings: 10, 3 kings: 7, 4 kings: 5)
